@@ -1,14 +1,3 @@
-/*Name: Victor Nikhil Antony
-CSC 172
-NetID: vantony
-ClassID: 134
-Assignment # Lab8
-TR 4:50-6:05
-TA Name: Sifan Ye
-I did not collaboarate with anyone on this project
- */
-
-
 
 //Imports required packages
 import java.io.BufferedWriter;
